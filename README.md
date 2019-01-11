@@ -2,4 +2,6 @@
 
 [![](https://travis-ci.org/BUPTlab805/infrared-photoelec-wave-classification.svg?branch=master)](https://travis-ci.org/BUPTlab805/infrared-photoelec-wave-classification)
 
-1. [在github上做TODO-list](https://zhuanlan.zhihu.com/p/30000095)
+1. [在github上做TODO-list（知乎）](https://zhuanlan.zhihu.com/p/30000095)
+
+2. ["Pro Git" -- Scott Chacon and Ben Straub](https://git-scm.com/book/zh/v2/)
