@@ -1,5 +1,3 @@
-![](https://github.githubassets.com/images/email/welcome-email/welcometocat.png)
-
 # github-tutorial:octocat:
 
 [![](https://travis-ci.org/BUPTlab805/github-tutorial.svg?branch=master)](https://travis-ci.org/BUPTlab805/github-tutorial)
